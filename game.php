@@ -47,7 +47,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Gyanendra Shankar Pandey</title>
+<title>Gyanendra's Rack Paper Scissors Game</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
